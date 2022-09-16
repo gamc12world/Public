@@ -1,0 +1,163 @@
+body{
+            background-image: url(https://wallpaper.dog/large/20517007.jpg);
+            background-repeat: no-repeat;
+            width: 100%;
+  max-width: 400px;
+  height: auto;
+        }
+        .nah{
+         font-family: 'Baloo Bhai', cursive;
+          text-align: center;
+        display: block;
+        width: 508px;
+        padding: 10px;
+        border: 2px solid rgb(145, 86, 86);
+        margin: 11px auto;
+        font-size: 25px;
+        border-radius: 8px;
+        color: lightcyan;
+        }
+      .nav {
+        display: inline-block;
+        height: 65px;
+        width: 370px;
+        background: linear-gradient(
+          to right,
+          #c33764,
+          #686d94
+        ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        background-repeat: no-repeat;
+      }
+      .nav li {
+        color: rgb(186, 164, 207);
+        float: left;
+        text-decoration: none;
+        overflow: auto;
+        padding: 10px;
+      }
+      .jkl{
+        position: absolute;
+        right: 45px;
+        top: 30px;
+         background: linear-gradient(
+          to right,
+          #c33764,
+          #686d94);
+        display: inline-block;
+        /* border: 2px solid yellow; */
+      }
+      
+      .jkl li{
+        color: rgb(153, 163, 57);
+        text-decoration: none;
+        float: right;
+        overflow: auto;
+        padding: 10px;
+      }
+      a:invalid{
+        animation: shake .3s;
+      }
+      a:hover{
+        cursor: cell;
+        color: #c33764;
+        font-size: x-large;
+        background-color: #686d94;
+        border: 2px solid lightgreen;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+      }
+      p:hover{
+    cursor: grabbing;
+      }
+      .cle{
+        display: flex;
+        color: burlywood;
+        border: 3px solid rebeccapurple;
+        justify-content: baseline;
+         margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+      }
+.cle#f4{
+  left: auto;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.ers{
+  color: blanchedalmond;
+  display: inline-block;
+  text-align: center;
+}
+.suv{
+color: #c33764;
+display: inline-block;
+}
+.fg{
+  height: 133px;
+  width: 230px;
+  border: 3px solid sienna;
+  background-color: #73AD21;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 40px;
+  
+}
